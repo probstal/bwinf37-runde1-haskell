@@ -1,0 +1,7 @@
+
+k=1 | 330.0 (diff: 15.0): Resistor 330.0
+k=2 | 314.726507713885 (diff: 0.2734922861150153): Parallel (Resistor 330.0) (Resistor 6800.0)
+k=3 | 315.0 (diff: 0.0): Parallel (Resistor 1200.0) (Parallel (Resistor 560.0) (Resistor 1800.0))
+
+Info: Stopped checking for higher k's as difference can't be better than 0.0
+      Run program with explicit k parameter to force other solutions

@@ -1,0 +1,9 @@
+Jitse -> Edsger: True
+Jorrit -> Edsger: True
+Peter -> Edsger: True
+Pia -> Edsger: True
+Rineke -> Edsger: True
+Rinus -> Edsger: True
+Sjoukje -> Edsger: True
+Edsger -> Jitse: True
+Superstar: <no superstar> (8 requests for 8 group members)

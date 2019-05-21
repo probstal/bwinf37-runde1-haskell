@@ -1,0 +1,10 @@
+Hoare -> Turing: True
+Dijkstra -> Turing: False
+Turing -> Dijkstra: True
+Hoare -> Dijkstra: True
+Knuth -> Dijkstra: True
+Codd -> Dijkstra: True
+Dijkstra -> Hoare: False
+Dijkstra -> Knuth: False
+Dijkstra -> Codd: False
+Superstar: Dijkstra (9 requests for 5 group members)

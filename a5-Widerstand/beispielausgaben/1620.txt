@@ -1,0 +1,6 @@
+
+k=1 | 1500.0 (diff: 120.0): Resistor 1500.0
+k=2 | 1620.0 (diff: 0.0): Series (Resistor 120.0) (Resistor 1500.0)
+
+Info: Stopped checking for higher k's as difference can't be better than 0.0
+      Run program with explicit k parameter to force other solutions

@@ -1,0 +1,7 @@
+Selena -> Hailey: False
+Hailey -> Selena: True
+Justin -> Selena: False
+Hailey -> Justin: True
+Selena -> Justin: True
+Justin -> Hailey: False
+Superstar: Justin (6 requests for 3 group members)

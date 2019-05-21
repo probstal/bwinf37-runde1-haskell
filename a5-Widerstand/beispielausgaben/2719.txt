@@ -1,0 +1,5 @@
+
+k=1 | 2700.0 (diff: 19.0): Resistor 2700.0
+k=2 | 2700.0 (diff: 19.0): Series (Resistor 1200.0) (Resistor 1500.0)
+k=3 | 2720.0 (diff: 1.0): Series (Resistor 1500.0) (Series (Resistor 220.0) (Resistor 1000.0))
+k=4 | 2719.0 (diff: 0.0): Series (Resistor 1800.0) (Series (Resistor 820.0) (Parallel (Resistor 220.0) (Resistor 180.0)))
